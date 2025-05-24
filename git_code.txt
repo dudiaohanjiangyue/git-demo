@@ -1,1 +1,2 @@
-welcome to Git!
+welcome to Git first!
+welcome to Git second!
